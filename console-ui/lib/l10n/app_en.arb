@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+  "@@x-categories": [
+    "Common",
+    "Settings"
+  ],
+  "commonCancel": "Cancel",
+  "@commonCancel": {
+    "x-category": [
+      "Common",
+      "Buttons"
+    ]
+  },
+  "commonLoading": "Loading...",
+  "@commonLoading": {
+    "x-category": [
+      "Common",
+      "Status"
+    ]
+  },
+  "commonSave": "Save",
+  "@commonSave": {
+    "description": "Sample button label",
+    "x-category": [
+      "Common",
+      "Buttons"
+    ]
+  },
+  "settingsLanguageLabel": "Language",
+  "@settingsLanguageLabel": {
+    "x-category": [
+      "Settings",
+      "Page"
+    ]
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "x-category": [
+      "Settings",
+      "Page"
+    ]
+  },
+  "settingsWelcome": "Welcome to the sandbox, {name}",
+  "@settingsWelcome": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    },
+    "x-category": [
+      "Settings",
+      "Page"
+    ]
+  }
+}

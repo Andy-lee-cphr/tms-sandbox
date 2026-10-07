@@ -1,0 +1,11 @@
+{
+  "languages": [
+    {
+      "code": "ko",
+      "name": "한국어",
+      "shownIn": [
+        "dev"
+      ]
+    }
+  ]
+}
