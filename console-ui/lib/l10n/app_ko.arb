@@ -1,5 +1,6 @@
 {
   "@@locale": "ko",
-  "commonCancel": "취⁠소",
+  "commonCancel": "취⁠소⁠하⁠기",
+  "commonLoading": "불⁠러⁠오⁠는 중⁠...",
   "commonSave": "저⁠장"
 }
